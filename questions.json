@@ -1,0 +1,232 @@
+{
+  "heading": "Rounding Off Numbers",
+  "topics": [
+    {
+      "heading": "Rounding Off Numbers",
+      "questions": [
+        
+          {
+              "questionNo": 1,
+              "question": "Round off 93 to the nearest tens.",
+              "options": [
+                  {"text": "90", "image": null},
+                  {"text": "100", "image": null},
+                  {"text": "80", "image": null},
+                  {"text": "70", "image": null}
+              ],
+              "answer": 0
+          },
+          {
+              "questionNo": 2,
+              "question": "Use the given number line to round 702 to its nearest tens.<br> <img width='80%' src='./assests/images/question/2.jpg'>",
+              "options": [
+                  {"text": "800", "image": null},
+                  {"text": "700", "image": null},
+                  {"text": "710", "image": null},
+                  {"text": "810", "image": null}
+              ],
+              "answer": 1
+          },
+          {
+              "questionNo": 3,
+              "question": "Round off 4,092 to its nearest hundred with the help of a number line.",
+              "options": [
+                  {"text": "4,000", "image": null},
+                  {"text": "4,090", "image": null},
+                  {"text": "4,100", "image": null},
+                  {"text": "5,000", "image": null}
+              ],
+              "answer": 2
+          },
+          {
+              "questionNo": 4,
+              "question": "Help Sasha round off the number 2,419 to the nearest hundreds.",
+              "options": [
+                  {"text": "400", "image": null},
+                  {"text": "2,000", "image": null},
+                  {"text": "2,400", "image": null},
+                  {"text": "3,000", "image": null}
+              ],
+              "answer": 2
+          },
+          {
+              "questionNo": 5,
+              "question": "Sara found 2,459 coins in a carton lying around the street while returning from school. The coins rounded to their nearest hundreds would be ____.",
+              "options": [
+                  {"text": "2,400", "image": null},
+                  {"text": "2,000", "image": null},
+                  {"text": "2,500", "image": null},
+                  {"text": "3,000", "image": null}
+              ],
+              "answer": 2
+          },
+          {
+              "questionNo": 6,
+              "question": "The museum had an antique art piece which cost 2,528$. With the help of the place value method, round off the cost of the antique art piece to the nearest thousand.",
+              "options": [
+                  {"text": "2,500", "image": null},
+                  {"text": "3,000", "image": null},
+                  {"text": "2,000", "image": null},
+                  {"text": "3,500", "image": null}
+              ],
+              "answer": 1
+          },
+          {
+              "questionNo": 7,
+              "question": "Check using a number line whether the given statement is true or false 7,141 rounds to 8,000 when rounded to the nearest thousand.",
+              "options": [
+                  {"text": "False", "image": null},
+                  {"text": "True", "image": null}
+              ],
+              "answer": 0
+          },
+          {
+              "questionNo": 8,
+              "question": "Estimate the dinner for 2,923 office guests and 2,120 neighbours for the birthday party of Lucian to the nearest thousand using the place value method.",
+              "options": [
+                  {"text": "6,120", "image": null},
+                  {"text": "7,000", "image": null},
+                  {"text": "6,000", "image": null},
+                  {"text": "3,000", "image": null}
+              ],
+              "answer": 2
+          },
+          {
+              "questionNo": 9,
+              "question": "Mr. Rollins received a huge bouquet on his retirement. If the bouquet had 17 yellow roses, 24 lilies and 7 tulips, about how many flowers were used to make the bouquet? (Round off to the nearest tens)",
+              "options": [
+                  {"text": "50", "image": null},
+                  {"text": "60", "image": null},
+                  {"text": "70", "image": null},
+                  {"text": "80", "image": null}
+              ],
+              "answer": 0
+          },
+          {
+              "questionNo": 10,
+              "question": "Roma bought 556 cupcakes for distribution at the orphanage. Out of which, 235 cupcakes got spoiled while on her way to the orphanage. Estimate the number of cupcakes left to distribute by rounding off to the nearest hundred using a number line.",
+              "options": [
+                  {"text": "500", "image": null},
+                  {"text": "300", "image": null},
+                  {"text": "200", "image": null},
+                  {"text": "400", "image": null}
+              ],
+              "answer": 3
+          },
+          {
+              "questionNo": 11,
+              "question": "Two workers were appointed for the painting of a house. If one of them painted 16 walls out of 33, estimate how many the other person painted by rounding off to the nearest tens using the place value method.",
+              "options": [
+                  {"text": "30", "image": null},
+                  {"text": "20", "image": null},
+                  {"text": "40", "image": null},
+                  {"text": "10", "image": null}
+              ],
+              "answer": 3
+          },
+          {
+              "questionNo": 12,
+              "question": "On Monday, Ash spent 461 minutes working on his project and on Tuesday he spent 234 minutes on his project. Estimate the difference in time he spent on Tuesday as compared to Monday by rounding off to the nearest hundred.",
+              "options": [
+                  {"text": "400", "image": null},
+                  {"text": "300", "image": null},
+                  {"text": "500", "image": null},
+                  {"text": "600", "image": null}
+              ],
+              "answer": 1
+          },
+          {
+              "questionNo": 13,
+              "question": "Sam bought a lamp for 5,845$ for his living room and is planning to sell it for 4,326$. Use estimation by rounding off to the nearest thousand by place value to calculate the money he will lose.",
+              "options": [
+                  {"text": "4,000$", "image": null},
+                  {"text": "3,000$", "image": null},
+                  {"text": "1,000$", "image": null},
+                  {"text": "2,000$", "image": null}
+              ],
+              "answer": 3
+          },
+          {
+              "questionNo": 14,
+              "question": "Help Maya estimate the number of fans (to the nearest tens) to be installed on 8 ceilings if he bought 22 fans for one ceiling.",
+              "options": [
+                  {"text": "100", "image": null},
+                  {"text": "200", "image": null},
+                  {"text": "160", "image": null},
+                  {"text": "150", "image": null}
+              ],
+              "answer": 2
+          },
+          {
+              "questionNo": 15,
+              "question": "Julia and her friends have been working in the departmental store for 4 days. About how many hours did they work for? (Round to the nearest hundreds)",
+              "options": [
+                  {"text": "100", "image": null},
+                  {"text": "200", "image": null},
+                  {"text": "300", "image": null},
+                  {"text": "400", "image": null}
+              ],
+              "answer": 0
+          },
+          {
+              "questionNo": 16,
+              "question": "Each of Mia’s friends contributed 7,820$ for the donation. If there were 4 friends, estimate the total amount Mia collected for the donation.",
+              "options": [
+                  {"text": "7,000$", "image": null},
+                  {"text": "32,000$", "image": null},
+                  {"text": "4,000$", "image": null},
+                  {"text": "27,000$", "image": null}
+              ],
+              "answer": 1
+          },
+          {
+              "questionNo": 17,
+              "question": "Help little Ava to round the price of her pretty soft toys to its nearest thousand. If the cost of 1 soft toy was 9134$, What would be the cost of 9 such toys?",
+              "options": [
+                  {"text": "81,000$", "image": null},
+                  {"text": "80,000$", "image": null},
+                  {"text": "90,000$", "image": null},
+                  {"text": "9,000$", "image": null}
+              ],
+              "answer": 0
+          },
+          {
+              "questionNo": 18,
+              "question": "A group of three friends divided the 62$ among themselves which they got after selling some old books. About how much money each of them got? Round off to the nearest tens on the number line.",
+              "options": [
+                  {"text": "30$", "image": null},
+                  {"text": "10$", "image": null},
+                  {"text": "40$", "image": null},
+                  {"text": "20$", "image": null}
+              ],
+              "answer": 3
+          },
+          {
+              "questionNo": 19,
+              "question": "Pam installed 736 shelves all around the room’s walls. If one row had 8 shelves, calculate the approximate number of shelves in each row by rounding off to the nearest hundred.",
+              "options": [
+                  {"text": "700", "image": null},
+                  {"text": "100", "image": null},
+                  {"text": "150", "image": null},
+                  {"text": "800", "image": null}
+              ],
+              "answer": 1
+          },
+          {
+              "questionNo": 20,
+              "question": "Mrs. Perry prepared 6 boxes of chocolates for the students in her school. If there are 2,820 treats in total, estimate the number of treats each box contains by rounding off to the nearest thousand using the place value method.",
+              "options": [
+                  {"text": "800", "image": null},
+                  {"text": "600", "image": null},
+                  {"text": "500", "image": null},
+                  {"text": "200", "image": null}
+              ],
+              "answer": 2
+          }
+      
+      
+      
+      ]
+    }
+  ]
+}
